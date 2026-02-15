@@ -16,6 +16,7 @@ A sleek Y2K-styled web gallery displaying Discord's detectable game icons. Brows
 3. Get the icon in your profile by selecting the "Favourite Game" widget and choosing your desired game name there.
 
 ![Preview](https://i.ibb.co/67vcz7L6/Screenshot-4.png)
+![Preview](https://i.ibb.co/pvCwM9DP/image.png)
 
 ## Made with
 
