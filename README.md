@@ -11,14 +11,20 @@ A sleek Y2K-styled web gallery displaying Discord's detectable game icons. Brows
 
 ## Usage
 
-1. Install node (If its not installed) and run `npm install` and run `node server.js`
-2. Open your web browser and go to `localhost:3000`.
-3. Get the icon in your profile by selecting the "Favourite Game" widget and choosing your desired game name there.
+1. Visit the website: https://discord-icons.netlify.app/
+2. Click on any game card to copy its name to clipboard
+3. Go to your Discord profile settings → "Favourite Game" widget
+4. Paste the game name and select it from the dropdown
 
 ![Preview](https://i.ibb.co/SwRMsDMg/image.png)
+
+**Self-hosting:** If you want to host this project yourself, simply deploy the files. Note: Opening `index.html` directly won't work due to CORS restrictions - you'll need a local server.
 
 ## Made with
 
 - Pure HTML/CSS/JavaScript
 - Tailwind CSS
 - Discord Detectables endpoint `https://discord.com/api/applications/detectable`.
+
+## License
+MIT License
