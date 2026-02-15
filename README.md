@@ -11,7 +11,7 @@ A sleek Y2K-styled web gallery displaying Discord's detectable game icons. Brows
 
 ## Usage
 
-1. Install node (If its not installed) and run `node server.js`. 
+1. Install node (If its not installed) and run `npm install` and run `node server.js`
 2. Open your web browser and go to `localhost:3000`.
 3. Get the icon in your profile by selecting the "Favourite Game" widget and choosing your desired game name there.
 
