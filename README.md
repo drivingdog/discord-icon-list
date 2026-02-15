@@ -2,6 +2,8 @@
 
 A sleek Y2K-styled web gallery displaying Discord's detectable game icons. Browse through thousands of game icons with smooth infinite scrolling and easy one-click copying of game names to customize your Discord profile.
 
+[![Preview](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)](https://github.com/drivingdog/discord-icon-list/blob/main/preview.gif)
+
 ## Features
 
 -  **Comprehensive Game Library** - Displays all Discord detectable games with icons
